@@ -2,7 +2,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Tests](https://github.com/yourusername/py-minmax/actions/workflows/tests.yml/badge.svg)](https://github.com/RadiantCoreLabs/py-minmax/actions)
 
 A lightweight Python library for efficiently finding **minimum** and **maximum** values in lists, arrays, and custom iterables. Optimized for simplicity and performance.
 
